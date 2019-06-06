@@ -1,4 +1,8 @@
 # standard-calculator
+
+![README Language](https://img.shields.io/badge/language-arabic-green.svg?style=for-the-badge&logo=appveyor)(https://github.com/nacersalaheddine/standard-calculator)
+
+
 ## A standard calculator made in javaFX
 
 ### Under DEV
